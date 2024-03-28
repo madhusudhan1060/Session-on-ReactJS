@@ -1,0 +1,34 @@
+{
+  "name": "session-on-react",
+  "version": "1.0.0",
+  "description": "React session by madhusudhan",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusudhan1060/Session-on-ReactJS.git"
+  },
+  "keywords": [
+    "react",
+    "by",
+    "madhusudhan"
+  ],
+  "author": "Madhusudhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhusudhan1060/Session-on-ReactJS/issues"
+  },
+  "homepage": "https://github.com/madhusudhan1060/Session-on-ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
