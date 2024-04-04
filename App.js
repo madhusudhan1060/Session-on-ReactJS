@@ -12,5 +12,18 @@ const  App = () => {
         </>
     )
 }
+
+const HeadingComponent = () => {
+    return <h1>Function component</h1>;
+}
+
+const HeadingComponent1 = () => (
+    <h1>Function component1</h1>
+)
+
+
+
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);

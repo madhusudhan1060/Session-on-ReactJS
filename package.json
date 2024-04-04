@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "React session by madhusudhan",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -29,6 +31,6 @@
     "react-dom": "^18.2.0"
   },
   "browsersList": [
-    "last 2 versions"
+    "last 10 Chrome versions"
   ]
 }
